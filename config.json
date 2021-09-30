@@ -1,11 +1,10 @@
 {
-  "token": process.env.TOKEN,
   "ownerId": "878096206587363418",
   "bugReportChannelId": "892931985054531634",
   "feedbackChannelId": "892931985054531634",
   "serverLogId": "889997055798431774",
   "apiKeys": {
-    "catApi": process.env.CATtHInGTOESDA
-    "googleApi": process.env.GOOGLEAPI
+    "catApi": "db0aa612-5134-42cf-9bff-5b7849584f3c",
+    "googleApi": "AIzaSyDHgmx69_1Dt9gmooxSh_8WHOK8W4Q1_JM"
   }
 }
